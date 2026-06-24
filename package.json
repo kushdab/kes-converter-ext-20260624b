@@ -1,0 +1,12 @@
+{
+  "name": "kes-converter-ext-20260624b",
+  "version": "1.0.0",
+  "description": "Browser extension for KES price conversion",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["currency", "kes", "converter", "shilling"],
+  "author": "",
+  "license": "MIT"
+}
